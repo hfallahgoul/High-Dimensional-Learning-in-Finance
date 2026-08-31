@@ -1,0 +1,19 @@
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+.vscode/
+.idea/
+venv/
+env/
+results/
+sim45_full/
+*.pdf
+*.png
+
+# MATLAB autosave and temp files
+*.asv
+*.m~
+*.mat~
+slprj/
